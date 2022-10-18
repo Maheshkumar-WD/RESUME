@@ -1,3 +1,3 @@
 # RESUME VERSIONS
 
-- current version MAC-0.0.02
+- current version - MAC-0.0.02
